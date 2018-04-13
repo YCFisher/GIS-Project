@@ -48,9 +48,9 @@
   <script>
     var map = L.map('map');
     if (L.Browser.mobile) {
-      map.setView([38.64865, -90.2418], 3);
+      map.setView([38.64865, -90.2418], 4);
     } else {
-      map.setView([38.64865, -90.2418], 3);
+      map.setView([38.64865, -90.2418], 4);
     }
     L.esri.basemapLayer('DarkGray').addTo(map);
     Papa.parse('../csv-data/FlowMapUnivData.csv', {
