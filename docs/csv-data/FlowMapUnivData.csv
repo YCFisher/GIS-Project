@@ -78,7 +78,7 @@ s_city_id,s_city,s_lat,s_lon,e_city_id,e_City,e_lat,e_lon,Accepted,Count,TopFive
 1,Saint Louis,38.6365828,-90.23338332,77,Saint Louis College of Pharmacy,38.636608,-90.260874,Yes,1,
 1,Saint Louis,38.6365828,-90.23338332,78,Saint Louis Community College-Forest Park,38.629459,-90.27839,Yes,1,
 1,Saint Louis,38.6365828,-90.23338332,79,Saint Louis Community College-Meramec,38.569086,-90.420587,Yes,4,
-1,Saint Louis,38.6365828,-90.23338332,80,Saint Louis University ,,,Yes,57,Saint Louis University 
+1,Saint Louis,38.6365828,-90.23338332,80,Saint Louis University ,38.63659278,-90.23682727,Yes,57,Saint Louis University 
 1,Saint Louis,38.6365828,-90.23338332,81,Santa Clara University,37.349952,-121.940608,Yes,1,
 1,Saint Louis,38.6365828,-90.23338332,82,Sewanee: The University of the South,35.20518,-85.917661,Was not reported,1,
 1,Saint Louis,38.6365828,-90.23338332,83,South Dakota School of Mines and Technology,44.073528,-103.205354,Yes,1,
