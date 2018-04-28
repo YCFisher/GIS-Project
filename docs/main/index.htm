@@ -109,6 +109,10 @@
         oneToManyFlowmapLayer.selectFeaturesForPathDisplayById('s_city_id', 1, true, 'SELECTION_NEW');
       }
     });
+    var popup = L.popup()
+    .setLatLng([38.6, -90.3])
+    .setContent('<img src="https://www.slu.edu/marcom/tools-downloads/imgs/billiken/slu_billiken_rgb.png" border="0" height="25" width="25"> Saint Louis University')
+    .openOn(map);
            
   </script>
 
