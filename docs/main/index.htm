@@ -110,9 +110,9 @@
       }
     });
 
-    var popup = L.popup()
-    .setLatLng([38.63659278, -90.23682727])
-    .setContent('Saint Louis University')
+    var popup = L.popup(geoJsonFeatureCollection)
+    .setLatLng(['e_lon', 'e_lat'])
+    .setContent('e_City')
     .openOn(map);
 
   </script>
